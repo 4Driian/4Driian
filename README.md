@@ -2,7 +2,10 @@
 <h3 align="center">A passionate frontend developer from Costa Rica</h3>
 <h3 align="center">Know Me</h3>
 
-<p>I am a student with a professional and dedicated attitude in my approach to web design and development. I always maintain a helpful and friendly disposition in my work. I enjoy assisting others whenever the opportunity arises, and I continually strive to achieve goals and advance in my professional development. My strong interpersonal skills and constant commitment to excellence in my projects drive me to make a meaningful contribution in any work environment related to web design and development.</p>
+<p>I am a passionate Front-End developer with a solid background in building modern, high-performance web applications. I 
+specialize in crafting intuitive user interfaces that prioritize usability and accessibility while ensuring optimal functionality. My 
+expertise in code and scalable design patterns allows me to deliver effective digital experiences. I thrive in collaborative 
+environments, continuously improving performance and usability through innovative solutions.</p>
 
 ### Portfolio and Direct Contact
 
